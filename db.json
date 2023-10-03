@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Felipe Santos",
+      "endereco": "Rua X"
+    },
+    {
+      "id": 2,
+      "nome": "Maria",
+      "endereco": "Rua X"
+    },
+    {
+      "id": 3,
+      "nome": "João",
+      "endereco": "Rua 25"
+    },
+    {
+      "id": 4,
+      "nome": "fwefwefwe",
+      "endereco": "sSa"
+    },
+    {
+      "id": 5,
+      "nome": "Vini Andrade",
+      "endereco": "Estrada da Cachamorra"
+    },
+    {
+      "id": 6,
+      "nome": "Vini Andrade",
+      "endereco": "Estrada da Cachamorra"
+    },
+    {
+      "id": 7,
+      "nome": "Vini Andrade",
+      "endereco": "Estrada da Cachamorra"
+    }
+  ]
+}
